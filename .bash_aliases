@@ -1,0 +1,1 @@
+/home/ankushh_kapoor/.bash-config/.bash_aliases
